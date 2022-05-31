@@ -6,6 +6,7 @@ Olá! Meu nome é Igor! Seja muito bem-vindo ao meu perfil do GitHub!
 - 🌱 I’m currently learning and working with many programming languages, such as Python, JavaScript, CSS, HTML, C and C ++.
 - 💞️ I’m looking to collaborate on many other projects like my owns projects. Or just helping other people who need a code, script or help with a development.
 
+
 <div align="center">
   <a href="https://github.com/IgorSN7">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=IgorSN7&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
