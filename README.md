@@ -1,7 +1,7 @@
 Olá! Seja muito bem-vindo ao meu perfil do GitHub!
 
 - ➤ 👋 Hi, I’m Igor Siviero. I'm 25 years old.
-- ➤ ⚙️ Solid 5-year track record as a Technology Analyst and Software/Front-End Developer, currently working as a Front-End Developer.
+- ➤ ⚙️ Solid 6-year track record as a Technology Analyst and Software/Front-End Developer, currently working as a Front-End Developer.
 - ➤ 🎞️ 8 years of expertise in audiovisual creation, turning concepts into reality using tools like Adobe Photoshop, Illustrator, and Premiere.
 - ➤ 🖥️ A 10-year background as a Game Artist, blending Development and Design skills to craft immersive and captivating experiences.
 - ➤ 🌱 Technologies: HTML, CSS, JavaScript, React.JS, PHP, WordPress, Bubble and Python.
