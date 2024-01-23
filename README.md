@@ -1,10 +1,13 @@
-Olá! Meu nome é Igor! Seja muito bem-vindo ao meu perfil do GitHub!
+Olá! Seja muito bem-vindo ao meu perfil do GitHub!
 
-- 👋 Hi, I’m @IgorSN7 aka Igor Siviero. I'm 25 years old. Professional with 6 years of experience in Technology as Analyst and Front-End & Software Developer.
-- 🌱 Technologies: HTML, CSS, JavaScript, React.JS, PHP, WordPress, Bubble and Python.
-- 👀 I’m interested in show my projects and learn more about this wonderful technology world. Maybe to find more creators like me to create a great project.
-- 👀 If you're interested to create a game, app, website or any other tech project, text me!
-- 💞️ I’m looking to collaborate on many other projects like my owns projects. Or just helping other people who need a code, script or help with a development.
+➤ 👋 Hi, I’m Igor Siviero. I'm 25 years old. ⚙️ Solid 5-year track record as a Technology Analyst and Software/Front-End Developer, currently working as a Front-End Developer.
+➤ 🎞️ 8 years of expertise in audiovisual creation, turning concepts into reality using tools like Adobe Photoshop, Illustrator, and Premiere.
+➤ 🖥️ A 10-year background as a Game Artist, blending Development and Design skills to craft immersive and captivating experiences.
+➤ 🌱 Technologies: HTML, CSS, JavaScript, React.JS, PHP, WordPress, Bubble and Python.
+➤ 🌱 Game Dev: Unreal Engine, Blender, C++, and Unity.
+➤ 👀 I’m interested in show my projects and learn more about this wonderful technology world. Maybe to find more creators like me to create a great project.
+➤ 👀 If you're interested to create a game, app, website or any other tech project, text me!
+➤ 🎓 Software Engineer at Anhembi Morumbi.
 
 
 <div align="center">
