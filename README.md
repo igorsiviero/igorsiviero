@@ -1,7 +1,7 @@
 Olá! Meu nome é Igor! Seja muito bem-vindo ao meu perfil do GitHub!
 
-- 👋 Hi, I’m @IgorSN7 aka Igor Siviero. I'm 24 years old. Professional with 5 years of experience in Technology as Analyst and Front-End Developer.
-- 🌱 Currently working and learning several programming languages, such as Python, JavaScript, Web Development, React, Node.JS, C and C++.
+- 👋 Hi, I’m @IgorSN7 aka Igor Siviero. I'm 25 years old. Professional with 6 years of experience in Technology as Analyst and Front-End & Software Developer.
+- 🌱 Technologies: HTML, CSS, JavaScript, React.JS, PHP, WordPress, Bubble and Python.
 - 👀 I’m interested in show my projects and learn more about this wonderful technology world. Maybe to find more creators like me to create a great project.
 - 👀 If you're interested to create a game, app, website or any other tech project, text me!
 - 💞️ I’m looking to collaborate on many other projects like my owns projects. Or just helping other people who need a code, script or help with a development.
