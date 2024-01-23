@@ -8,7 +8,7 @@ Olá! Meu nome é Igor! Seja muito bem-vindo ao meu perfil do GitHub!
 
 
 <div align="center">
-  <a href="https://github.com/IgorSN7">
+  <a href="https://github.com/igorsiviero">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=IgorSN7&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSN7&layout=compact&langs_count=9&theme=algolia&count_private=true"/>
 </div>
@@ -27,13 +27,13 @@ Olá! Meu nome é Igor! Seja muito bem-vindo ao meu perfil do GitHub!
   ##
 
 <div> 
- <a href="https://www.linkedin.com/in/igor-siviero-nogueira-98b6b5164/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="linkedin.com/in/igorsiviero/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/c/ULTRAYTB" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/igorsn7" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/igorsiviero" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/IgorXSaintUltra" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:igorsiviero@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://github.com/IgorSN7/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-  <a href="https://api.whatsapp.com/send?phone=5511940462128&text=Ol%C3%A1!%20Tudo%20bem%3F%20Vi%20seu%20perfil%20atrav%C3%A9s%20do%20GitHub!%20" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+  <a href="https://github.com/igorsiviero/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="https://api.whatsapp.com/send?phone=5511984886165&text=Ol%C3%A1!%20Tudo%20bem%3F%20Vi%20seu%20perfil%20atrav%C3%A9s%20do%20GitHub!%20" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
   
 
 <!---
