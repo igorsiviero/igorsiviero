@@ -1,46 +1,101 @@
-Olá! Seja muito bem-vindo ao meu perfil do GitHub!
+# Hi, I'm Igor Siviero 👋
 
-- ➤ 👋 Hi, I’m Igor Siviero. I'm 25 years old.
-- ➤ ⚙️ Solid 6-year track record as a Technology Analyst and Software/Front-End Developer, currently working as a Front-End Developer.
-- ➤ 🎞️ 8 years of expertise in audiovisual creation, turning concepts into reality using tools like Adobe Photoshop, Illustrator, and Premiere.
-- ➤ 🖥️ A 10-year background as a Game Artist, blending Development and Design skills to craft immersive and captivating experiences.
-- ➤ 🌱 Technologies: HTML, CSS, JavaScript, React.JS, PHP, WordPress, Bubble and Python.
-- ➤ 🌱 Game Dev: Unreal Engine, Blender, C++, and Unity.
-- ➤ 👀 I’m interested in show my projects and learn more about this wonderful technology world. Maybe to find more creators like me to create a great project.
-- ➤ 👀 If you're interested to create a game, app, website or any other tech project, text me!
-- ➤ 🎓 Software Engineer at Anhembi Morumbi.
+### Front-End Developer | Marketing Technology | Digital Designer | Game Artist
 
+I'm a multidisciplinary professional from São Paulo, Brazil, with experience connecting **technology, marketing, design, audiovisual production and game development** to build digital experiences with strategy, performance and visual impact.
 
-<div align="center">
-  <a href="https://github.com/igorsiviero">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=igorsiviero&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorsiviero&layout=compact&langs_count=9&theme=algolia&count_private=true"/>
+I work across the full digital ecosystem: from websites, landing pages and interfaces to analytics, paid media, CRM, creative assets, video editing and interactive projects.
+
+---
+
+## About me
+
+- ⚙️ **6+ years** working with technology applied to digital marketing, analytics and web development.
+- 💻 **Front-End Developer** focused on responsive interfaces, performance, UX/UI, accessibility and scalable digital experiences.
+- 📊 Experience with **GTM, GA4, Google Ads, Meta Ads, CRM, RD Station, Shopify, dashboards, CRO and performance tracking**.
+- 🎨 **8+ years** in audiovisual and creative production using tools like Photoshop, Illustrator, Premiere, After Effects and CapCut.
+- 🎮 **10+ years** as a Game Artist, combining design, storytelling, 3D, engines and development logic.
+- 🚀 Founder of **Horizon Interactive Studios**, where I connect marketing, software, design and audiovisual production to create complete digital solutions.
+- 🎓 Software Engineering student at **Universidade Anhembi Morumbi**.
+
+---
+
+## What I build
+
+- Websites and landing pages
+- Front-end applications
+- CRM and SaaS interfaces
+- Digital portfolios
+- Marketing and analytics structures
+- Conversion-focused pages
+- Creative assets for campaigns
+- Video content and motion pieces
+- Game development prototypes
+- Interactive digital experiences
+
+---
+
+## Main technologies
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Igor-HTML" height="34" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Igor-CSS" height="34" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Igor-JavaScript" height="34" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Igor-TypeScript" height="34" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Igor-React" height="34" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Igor-Node" height="34" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Igor-PHP" height="34" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Igor-WordPress" height="34" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
+  <img align="center" alt="Igor-Python" height="34" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Igor-C" height="34" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="Igor-C++" height="34" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Igor-Csharp" height="34" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
-  
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Igor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Igor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Igor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Igor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Igor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Igor-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Igor-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Igor-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"> 
-</div>
-   
-  ##
 
-<div> 
- <a href="linkedin.com/in/igorsiviero/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.youtube.com/c/ULTRAYTB" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/igorsiviero" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/IgorXSaintUltra" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:igorsiviero@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://github.com/igorsiviero/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-  <a href="https://api.whatsapp.com/send?phone=5511984886165&text=Ol%C3%A1!%20Tudo%20bem%3F%20Vi%20seu%20perfil%20atrav%C3%A9s%20do%20GitHub!%20" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
-  
+---
 
-<!---
-IgorSN7/IgorSN7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Creative, analytics and marketing stack
+
+- Adobe Photoshop
+- Adobe Illustrator
+- Adobe Premiere
+- Adobe After Effects
+- CapCut
+- Figma
+- Google Tag Manager
+- Google Analytics / GA4
+- Google Ads
+- Meta Ads
+- RD Station
+- Shopify
+- CRM platforms
+- WordPress
+- Hotjar
+- Semrush
+
+---
+
+## Game development stack
+
+- Unreal Engine
+- Unity
+- Blender
+- C++
+- C#
+- Game art
+- 3D workflows
+- Interactive prototypes
+
+---
+
+## Current focus
+
+I'm currently focused on building digital products and systems that connect:
+
+```txt
+Software Development
+Marketing Strategy
+Design
+Audiovisual Production
+Analytics
+Business Growth
