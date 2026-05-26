@@ -25,7 +25,6 @@ I work across the full digital ecosystem: from websites, landing pages and inter
 - Websites and landing pages
 - Front-end applications
 - CRM and SaaS interfaces
-- Digital portfolios
 - Marketing and analytics structures
 - Conversion-focused pages
 - Creative assets for campaigns
@@ -51,42 +50,6 @@ I work across the full digital ecosystem: from websites, landing pages and inter
   <img align="center" alt="Igor-C++" height="34" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Igor-Csharp" height="34" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
-
----
-
-## Creative, analytics and marketing stack
-
-- Adobe Photoshop
-- Adobe Illustrator
-- Adobe Premiere
-- Adobe After Effects
-- CapCut
-- Figma
-- Google Tag Manager
-- Google Analytics / GA4
-- Google Ads
-- Meta Ads
-- RD Station
-- Shopify
-- CRM platforms
-- WordPress
-- Hotjar
-- Semrush
-
----
-
-## Game development stack
-
-- Unreal Engine
-- Unity
-- Blender
-- C++
-- C#
-- Game art
-- 3D workflows
-- Interactive prototypes
-
----
 
 ## Current focus
 
